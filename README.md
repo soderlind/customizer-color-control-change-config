@@ -8,7 +8,7 @@ I needed to change the color palette, and ended up with a generic "Change the co
 
 I've added a new palette to my [customizer demo theme](https://github.com/soderlind/2016-customizer-demo).
 
-## Installing the validator
+## Installing
 
 Clone this repository and include the [javascript code](customizer-color-control-change-config.js):
 
