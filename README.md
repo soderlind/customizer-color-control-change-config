@@ -2,7 +2,7 @@
 
 I needed to change the color palette, here's how I did it.
 
-<img src="assets/palette.png" /> <img src="assets/no-palette.png" />
+<img src="assets/palette.png" width="300" /> <img src="assets/no-palette.png" width="300" />
 
 ## Demo
 
