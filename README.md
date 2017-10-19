@@ -6,7 +6,7 @@ I needed to change the color palette, and ended up with a generic "Change the co
 
 ## Demo
 
-I've added a new palette to my [customizer demo theme](https://github.com/soderlind/2016-customizer-demo).
+I've [added a new palette](https://github.com/soderlind/2016-customizer-demo/blob/master/functions.php#L394-L404) to my [customizer demo theme](https://github.com/soderlind/2016-customizer-demo).
 
 ## Installing
 
