@@ -62,7 +62,9 @@ $options = [
 
 <img src="assets/no-palette.png" />
 
-### Display the color control. Default is `'hide' => true`, i.e. you have to click the button to display it)
+### Display the color control.
+
+Default is `'hide' => true`, i.e. you have to click the button to display it.
 
 ```php
 $options = [
