@@ -1,12 +1,12 @@
 # Change the config of the Customizer Color Control
 
-I needed to change the color palette, here's how I did it.
+I needed to change the color palette, and ended up with a generic "Change the config of the Customizer Color Control".
 
-<img src="assets/palette.png" width="300" /> <img src="assets/no-palette.png" width="300" />
+<img src="assets/palette-or-no-palette.jpg" align="center" />
 
 ## Demo
 
-I've added this validator to my [customizer demo theme](https://github.com/soderlind/2016-customizer-demo).
+I've added a new palette to my [customizer demo theme](https://github.com/soderlind/2016-customizer-demo).
 
 ## Installing the validator
 
